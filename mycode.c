@@ -1,11 +1,11 @@
 /*
 WAP to find whether the given number is prime.
 
-my changes on new pc
 */
 
 
 #include <stdio.h>
+
 
 int main(void)
 {
